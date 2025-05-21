@@ -1,1 +1,1 @@
-# neural-network-for-image-recognition
+this is a project for a session on neural networks
